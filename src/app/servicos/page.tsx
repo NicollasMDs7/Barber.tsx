@@ -84,7 +84,7 @@ export default function Servicos() {
                             height={150}
                             objectFit="contain"
                           />
-                          <p className="mt-2 text-center">Cortes de Mandrake</p>
+                          <p className="mt-2 text-center">Cortes</p>
                         </CardContent>
                       )}
 
@@ -98,7 +98,7 @@ export default function Servicos() {
                             className="p-6"
                             objectFit="contain"
                           />
-                          <p className="mt-2 text-center">Barba de safado</p>
+                          <p className="mt-2 text-center">Barba</p>
                         </CardContent>
                       )}
 
@@ -112,7 +112,7 @@ export default function Servicos() {
                             objectFit="contain"
                           />
                           <p className="mt-2 text-center">
-                            Trança de pega casada
+                            Trança
                           </p>
                         </CardContent>
                       )}
@@ -172,7 +172,7 @@ export default function Servicos() {
                             objectFit="contain"
                           />
                           <p className="mt-2 text-center">
-                            Luzes de homossexual
+                            Luzes
                           </p>
                         </CardContent>
                       )}
@@ -186,8 +186,7 @@ export default function Servicos() {
                             height={250}
                             objectFit="contain"
                           />
-                          <p className="mt-2 text-center"></p>Penteado de
-                          cacatua
+                          <p className="mt-2 text-center"></p>Penteados
                         </CardContent>
                       )}
                     </div>
